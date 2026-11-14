@@ -1,5 +1,7 @@
-producto,cantidad,precio
-Cuaderno,10,1.50
-Lapiz,20,0.50
-Borrador,5,0.75
-Regla,8,1.25
+id_cliente,nombre,apellido,ciudad,correo
+101,Lucia,Mendoza,Loja,lucia@example.com
+102,Andres,Cedeno,Guayaquil,andres@example.com
+103,Daniela,Vera,Ambato,daniela@example.com
+104,Mateo,Castro,Cuenca,mateo@example.com
+105,Sofia,Reyes,Manta,sofia@example.com
+106,Diego,Navarro,Quito,diego@example.com
