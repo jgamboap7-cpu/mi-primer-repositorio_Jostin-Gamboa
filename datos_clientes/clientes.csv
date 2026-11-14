@@ -1,5 +1,7 @@
-id_cliente,nombre,ciudad,correo
-1,Ana Perez,Guayaquil,ana@example.com
-2,Carlos Lopez,Quito,carlos@example.com
-3,Maria Torres,Cuenca,maria@example.com
-4,Pedro Ruiz,Manta,pedro@example.com
+codigo_venta,producto,cantidad,precio_unitario
+V001,Mouse inalambrico,4,8.50
+V002,Teclado,3,12.00
+V003,Monitor,2,145.00
+V004,Auriculares,5,16.75
+V005,Memoria USB,10,6.25
+V006,Impresora,2,95.00
